@@ -2,3 +2,18 @@ a.ekinLogo{
   font-family: 'Playfair-Display', serif;
   font-size: 48px;
 }
+
+.carousel{
+  padding-top: 10px;
+  margin: 1 auto;
+}
+
+.carousel-control-prev{
+  align:left;
+}
+
+
+li.borderless {
+  border-bottom: 0 none;
+  padding: 5px;
+}
